@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Mahler.iml" filepath="$PROJECT_DIR$/Mahler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/probability/probability.iml" filepath="$PROJECT_DIR$/probability/probability.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sandbox/sandbox.iml" filepath="$PROJECT_DIR$/sandbox/sandbox.iml" />
+    </modules>
+  </component>
+</project>
