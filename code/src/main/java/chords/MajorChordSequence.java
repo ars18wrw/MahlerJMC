@@ -116,7 +116,7 @@ public class MajorChordSequence {
         ChordFunction thePreviousFunction = null;
         ChordFunction thePreviousPreviousFunction = null;
         Boolean wasPreviousUp = null;
-        do {
+        do {  
             System.out.println(root);
             if (root.getRhythmValue() == 1) {
                 root.setRhythmValue(0.5);
