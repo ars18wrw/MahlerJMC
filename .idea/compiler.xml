@@ -26,5 +26,9 @@
         <module name="sandbox" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Mahler" target="1.5" />
+      <module name="sandbox" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>
