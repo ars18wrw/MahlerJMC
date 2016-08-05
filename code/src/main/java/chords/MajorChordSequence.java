@@ -79,7 +79,7 @@ public class MajorChordSequence {
         tempList = new LinkedList<>();
         tempList.add(ChordFunction.D7);
         tempList.add(ChordFunction.D);
-//        tempList.add(ChordFunction.VI);
+//      tempList.add(ChordFunction.VI);
         rules.put(ChordFunction.D, tempList);
 
         // D7
